@@ -61,6 +61,7 @@ img:hover{
   text-align: center;
   color: #FFC900;
   text-transform: uppercase;
+  margin-top: -10px;
 }
 
 .container .content p{
